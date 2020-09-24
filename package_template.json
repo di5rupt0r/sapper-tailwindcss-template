@@ -14,13 +14,12 @@
     "sirv": "^1.0.0"
   },
   "devDependencies": {
-    "@fullhuman/postcss-purgecss": "^2.2.0",
-    "postcss": "^7.0.30",
+    "postcss": "^8.0.9",
     "postcss-load-config": "^2.1.0",
     "sapper": "^0.28.0",
     "svelte": "^3.17.3",
-    "svelte-preprocess": "^3.7.4",
-    "tailwindcss": "^1.4.6"
+    "svelte-preprocess": "^4.3.0",
+    "tailwindcss": "^1.8.10"
   },
   "merge-configs": {
     "rollup": {
